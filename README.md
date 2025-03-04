@@ -57,6 +57,7 @@ python encryption_tool.py
 
 🔹 Hidden files prevent unauthorized access to encrypted content.
 
+
 🔹 the decryption key is never kept in plain text.
 
 
@@ -65,5 +66,8 @@ python encryption_tool.py
 
 📬 Contact
 For any issues or queries, contact:
+
 📧 Email: battalaakshaya799@gmail.com
+
+
 🔗 LinkedIn: https://www.linkedin.com/in/akshaya-battala-838434327/
