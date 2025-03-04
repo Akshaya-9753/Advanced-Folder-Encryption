@@ -33,21 +33,30 @@ python encryption_tool.py
 🎯 How It Works
 
 🔐 Encryption Process
+ 
  -To encrypt a file or folder, choose it.
+ 
  -The contents are secured using AES encryption.
+ 
  -For further security, the folder or file is automatically hidden.
+ 
  -After being generated, a decryption key is emailed.
 
  
  🔓 Decryption Process
- -After entering the decryption key that was sent to you via email 
+ 
+ -After entering the decryption key that was sent to you via email. 
+ 
  -The folder or file returns to its initial state and the concealed attribute is eliminated, restoring access.
 
 
 🛡️ Security Considerations
 🔹 Strong data protection is guaranteed by  encryption.
+
 🔹 SMTP password-sharing guarantees safe key delivery.
+
 🔹 Hidden files prevent unauthorized access to encrypted content.
+
 🔹 the decryption key is never kept in plain text.
 
 
