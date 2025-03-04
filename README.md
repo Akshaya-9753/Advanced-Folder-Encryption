@@ -51,6 +51,8 @@ python encryption_tool.py
 
 
 🛡️ Security Considerations
+
+
 🔹 Strong data protection is guaranteed by  encryption.
 
 🔹 SMTP password-sharing guarantees safe key delivery.
